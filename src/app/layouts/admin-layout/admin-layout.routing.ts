@@ -13,9 +13,9 @@ export const AdminLayoutRoutes: Routes = [
     // {
     //   path: '',
     //   children: [ {
-    //     path: 'dashboard',
-    //     component: DashboardComponent
-    // }]}, {
+    //     path: 'table-list',
+    //     component: TableListComponent
+    // }]},
     // path: '',
     // children: [ {
     //   path: 'userprofile',
